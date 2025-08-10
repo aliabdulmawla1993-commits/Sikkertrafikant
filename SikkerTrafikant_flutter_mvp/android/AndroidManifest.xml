@@ -1,0 +1,1 @@
+<manifest package='com.sikkertrafikant.app' xmlns:android='http://schemas.android.com/apk/res/android'><application android:label='SikkerTrafikant' android:icon='@mipmap/ic_launcher'></application></manifest>
